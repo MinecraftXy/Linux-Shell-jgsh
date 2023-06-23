@@ -1,5 +1,7 @@
+<div align="center"><img src="https://img.shields.io/github/stars/MinecraftXy/Linux-Shell-jgsh">&nbsp; <img src="https://img.shields.io/github/forks/MinecraftXy/Linux-Shell-jgsh?color=%23f8e71c">&nbsp;<img src="https://img.shields.io/github/issues/MinecraftXy/Linux-Shell-jgsh?color=%237ed321"></div>
+
 # jgsh
-Linux shell 持续更新
+## Linux shell 持续更新
 # 项目概述
 #### jgsh,一个简单的LinuxShell,实现简单的交互功能
 # 安装和部署
